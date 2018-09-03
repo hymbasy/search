@@ -20,4 +20,3 @@ springboot 集成elasticSearch，实现索引增删改查
             }
 对应的位置加上hostname:'*'
 4、在elasticsearch-head-master下执行npm install(需要安装node.js) 安装完成后执行grunt server,在浏览器中输入：localhost:9100
-
